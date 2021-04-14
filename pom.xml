@@ -364,8 +364,7 @@
       </dependency>
       <dependency>
         <groupId>org.apache.logging.log4j</groupId>
-        <artifactId>log4j-core-java9</artifactId>
-        <version>${project.version}</version>
+          <version>${project.version}</version>
         <type>zip</type>
       </dependency>
       <dependency>
